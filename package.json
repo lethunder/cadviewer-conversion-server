@@ -4,7 +4,8 @@
   "description": "CADViewer NodeJS Server Encapsulation of CAD Converters",
   "main": "CV_6.8.64.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "launch": "node CV_6.8.65"
   },
   "author": "charnung",
   "license": "TMS 1.0",
