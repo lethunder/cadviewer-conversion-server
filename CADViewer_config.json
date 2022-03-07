@@ -1,7 +1,7 @@
 {
-    "ServerPort" : 3000,
-    "ServerUrl" : "http://127.0.0.1:3000",
-    "ServerFrontEndUrl" : "http://localhost/cadviewer/",
+    "ServerPort" : 80,
+    "ServerUrl" : "https://cadviewer-server.herokuapp.com",
+    "ServerFrontEndUrl" : "https://cadviewer-server.herokuapp.com/cadviewer/",
     "ServerLocation" : "/app/",
     "fileLocation" : "/app/converters/files/",
     "fileLocationUrl" : "http://127.0.0.1:3000/converters/files/",
