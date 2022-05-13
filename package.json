@@ -1,15 +1,15 @@
 {
   "name": "cadviewer-conversion-server",
-  "version": "6.8.64",
+  "version": "6.8.82",
   "description": "CADViewer NodeJS Server Encapsulation of CAD Converters",
-  "main": "CV_6.8.64.js",
+  "main": "CV_6.8.82.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "launch": "node CV_6.8.65"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "charnung",
   "license": "TMS 1.0",
   "dependencies": {
+    "express": "^4.17.3",
     "formidable": "^1.2.2",
     "image-size": "^1.0.0",
     "node-gyp": "^8.1.0",

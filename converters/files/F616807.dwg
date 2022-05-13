@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>InvalidRequest</Code><Message>Request specific response headers cannot be used for anonymous GET requests.</Message><RequestId>Q3K7S519F1GVTADH</RequestId><HostId>hsTW2bvE9aaPoh7iPz+FteANe718CF/jy7KXLzloMRFnYZ40VW358CrD9c53LXQYY9aZgOyquG8=</HostId></Error>
